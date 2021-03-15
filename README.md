@@ -1,4 +1,4 @@
-# Program zaliczeniowy Programowanie Obiektowe EKA 2020
+# Programowanie Obiektowe
 
 ## Główne założenia programu
 Program ma wspierać bibliotekę w procesie obsługi czytelników. 
