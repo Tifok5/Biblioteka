@@ -1,0 +1,30 @@
+Harry Potter i Kamien Filozoficzny
+J.K. Rowling
+328
+Hobbit
+J.R.R. Tolkien
+304
+Igrzyska smierci
+Suzanne Collins
+378
+Lalka
+Boleslaw Prus
+664
+Folwark zwierzecy
+George Orwell
+128
+Dzieci z Bullerbyn
+Astrid Lindgren
+296
+W pustyni i w puszczy
+Henryk Sienkiewicz
+352
+Romeo i Julia
+William Shakespeare
+240
+Pan Tadeusz
+Adam Mickiewicz
+344
+Metro 2033
+Dmitry Glukhovsky
+578
